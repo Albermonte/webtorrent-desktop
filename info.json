@@ -1,0 +1,261 @@
+{
+    "title": "Peerado TV",
+    "channels": [
+        {
+            "chid": 1,
+            "chname": "La 1  ( ES )",
+            "chlogo": "http://tonvid.com/tv/icons/la1.png",
+            "chlink": "http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8",
+            "chenable": "",
+            "chnote": ""
+        },
+        {
+            "chid": 2,
+            "chname": "La 1 geo  ( ES )",
+            "chlogo": "http://tonvid.com/tv/icons/la1.png",
+            "chlink": "http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@584096/master.m3u8",
+            "chenable": "",
+            "chnote": ""
+        },
+        {
+            "chid": 3,
+            "chname": "La 1 HD  ( ES )",
+            "chlogo": "http://tonvid.com/tv/icons/la1.png",
+            "chlink": "http://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583046/master.m3u8",
+            "chenable": "",
+            "chnote": ""
+        },
+        {
+            "chid": 4,
+            "chname": "La 1 HD geo  ( ES )",
+            "chlogo": "http://tonvid.com/tv/icons/la1.png",
+            "chlink": "http://hlsackdn_gl1-lh.akamaihd.net/i/hlslive_1@439385/master.m3u8",
+            "chenable": "",
+            "chnote": ""
+        },
+        {
+            "chid": 5,
+            "chname": "La 2  ( ES )",
+            "chlogo": "http://tonvid.com/tv/icons/la2.png",
+            "chlink": "http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/master.m3u8",
+            "chenable": "",
+            "chnote": ""
+        },
+        {
+            "chid": 6,
+            "chname": "24h  ( ES )",
+            "chlogo": "http://tonvid.com/tv/icons/24h.png",
+            "chlink": "http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8",
+            "chenable": "",
+            "chnote": ""
+        },
+        {
+            "chid": 7,
+            "chname": "Teledeporte  ( ES SPORT )",
+            "chlogo": "http://tonvid.com/tv/icons/tdp.png",
+            "chlink": "http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@39732/master.m3u8",
+            "chenable": "",
+            "chnote": ""
+        },
+        {
+            "chid": 8,
+            "chname": "Teledeporte HD ( ES SPORT )",
+            "chlogo": "http://tonvid.com/tv/icons/tdp.png",
+            "chlink": "http://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@39598/master.m3u8",
+            "chenable": "",
+            "chnote": ""
+        },
+        {
+            "chid": 9,
+            "chname": "TVE eventos ( ES SPORT )",
+            "chlogo": "http://tonvid.com/tv/icons/la1.png",
+            "chlink": "http://hlsackdn_gl1-lh.akamaihd.net/i/hlsdvrlive_1@568757/master.m3u8",
+            "chenable": "",
+            "chnote": ""
+        },
+        {
+            "chid": 10,
+            "chname": "Antena 3 ( ES )",
+            "chlogo": "",
+            "chlink": "http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_3_av-b.m3u8?sd=10&rebase=on",
+            "chenable": "",
+            "chnote": ""
+        },
+        {
+            "chid": 11,
+            "chname": "Antena 3 (eventos) ( ES )",
+            "chlogo": "http://tonvid.com/tv/icons/antena3.png",
+            "chlink": "http://a3live-lh.akamaihd.net/i/geoeventos15_1@309063/index_3_av-b.m3u8?sd=10&rebase=on",
+            "chenable": "",
+            "chnote": ""
+        },
+        {
+            "chid": 12,
+            "chname": "LaSexta ( ES )",
+            "chlogo": "http://tonvid.com/tv/icons/lasexta.png",
+            "chlink": "http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_3_av-b.m3u8?sd=10&rebase=on",
+            "chenable": "",
+            "chnote": ""
+        },
+        {
+            "chid": 13,
+            "chname": "Mega ( ES )",
+            "chlogo": "http://tonvid.com/tv/icons/mega.png",
+            "chlink": "http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?sd=10&rebase=on",
+            "chenable": "",
+            "chnote": ""
+        },
+        {
+            "chid": 14,
+            "chname": "Neox ( ES )",
+            "chlogo": "http://tonvid.com/tv/icons/neox.png",
+            "chlink": "http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_3_av-b.m3u8?sd=10&rebase=on",
+            "chenable": "",
+            "chnote": ""
+        },
+        {
+            "chid": 15,
+            "chname": "Nova ( ES )",
+            "chlogo": "http://tonvid.com/tv/icons/nova.png",
+            "chlink": "http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_3_av-b.m3u8?sd=10&rebase=on",
+            "chenable": "",
+            "chnote": ""
+        },
+        {
+            "chid": 16,
+            "chname": "Atreseries ( ES )",
+            "chlogo": "http://tonvid.com/tv/icons/atreseries.png",
+            "chlink": "http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_3_av-b.m3u8?sd=10&rebase=on",
+            "chenable": "",
+            "chnote": ""
+        },
+        {
+            "chid": 17,
+            "chname": "Cuatro ( ES )",
+            "chlogo": "http://tonvid.com/tv/icons/cuatro.png",
+            "chlink": "http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/index.m3u8",
+            "chenable": "",
+            "chnote": ""
+        },
+        {
+            "chid": 18,
+            "chname": "Telecinco ( ES )",
+            "chlogo": "http://tonvid.com/tv/icons/telecinco.png",
+            "chlink": "http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/index.m3u8",
+            "chenable": "",
+            "chnote": ""
+        },
+        {
+            "chid": 19,
+            "chname": "13TV ( ES )",
+            "chlogo": "http://tonvid.com/tv/icons/13tv.png",
+            "chlink": "http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8",
+            "chenable": "",
+            "chnote": ""
+        },
+        {
+            "chid": 20,
+            "chname": "R.Madrid TV ( ES SPORT )",
+            "chlogo": "http://tonvid.com/tv/icons/rmadrid.png",
+            "chlink": "http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8?sd=10&rebase=on",
+            "chenable": "",
+            "chnote": ""
+        },
+        {
+            "chid": 21,
+            "chname": "TV3 ( CA )",
+            "chlogo": "http://tonvid.com/tv/icons/tv3.png",
+            "chlink": "http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8",
+            "chenable": "",
+            "chnote": ""
+        },
+        {
+            "chid": 22,
+            "chname": "TV3 Cat ( CA )",
+            "chlogo": "http://tonvid.com/tv/icons/tv3cat.png",
+            "chlink": "http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/playlist.m3u8",
+            "chenable": "",
+            "chnote": ""
+        },
+        {
+            "chid": 23,
+            "chname": "3/24 ( CA )",
+            "chlogo": "http://tonvid.com/tv/icons/3_24.png",
+            "chlink": "http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8",
+            "chenable": "",
+            "chnote": ""
+        },
+        {
+            "chid": 24,
+            "chname": "Esport3 ( CA SPORT )",
+            "chlogo": "http://tonvid.com/tv/icons/esport3.png",
+            "chlink": "http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:es3_web/playlist.m3u8",
+            "chenable": "",
+            "chnote": ""
+        },
+        {
+            "chid": 25,
+            "chname": "Super3/C33 ( CA )",
+            "chlogo": "http://tonvid.com/tv/icons/super3.png",
+            "chlink": "http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:c33_web/playlist.m3u8",
+            "chenable": "",
+            "chnote": ""
+        },
+        {
+            "chid": 26,
+            "chname": "8tv ( CA ES )",
+            "chlogo": "http://tonvid.com/tv/icons/8tv.png",
+            "chlink": "http://streaming.8tv.cat/8TV/8aldia-directe/.m3u8",
+            "chenable": "",
+            "chnote": ""
+        },
+        {
+            "chid": 27,
+            "chname": "Eitb ( EU ES )",
+            "chlogo": "http://tonvid.com/tv/icons/etb.png",
+            "chlink": "http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8",
+            "chenable": "",
+            "chnote": ""
+        },
+        {
+            "chid": 28,
+            "chname": "Telemadrid ( ES )",
+            "chlogo": "http://tonvid.com/tv/icons/telemadrid.png",
+            "chlink": "http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8",
+            "chenable": "",
+            "chnote": ""
+        },
+        {
+            "chid": 29,
+            "chname": "laOtra ( ES )",
+            "chlogo": "http://tonvid.com/tv/icons/laotra.png",
+            "chlink": "http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8",
+            "chenable": "",
+            "chnote": ""
+        },
+        {
+            "chid": 30,
+            "chname": "7 TV Murcia ( ES )",
+            "chlogo": "http://tonvid.com/tv/icons/7tvmurcia.png",
+            "chlink": "http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8",
+            "chenable": "",
+            "chnote": ""
+        },
+        {
+            "chid": 31,
+            "chname": "IB3 ( CA )",
+            "chlogo": "http://tonvid.com/tv/icons/ib3.jpg",
+            "chlink": "http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8",
+            "chenable": "",
+            "chnote": ""
+        },
+        {
+            "chid": 32,
+            "chname": "CMT ( ES )",
+            "chlogo": "http://tonvid.com/tv/icons/cmt.jpg",
+            "chlink": "http://cdnapi.kaltura.com/p/2288691/sp/39582391/playManifest/entryId/1_c9gw17x6/format/applehttp/.m3u8",
+            "chenable": "",
+            "chnote": ""
+        }
+    ]
+}
